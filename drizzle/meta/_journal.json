@@ -8,6 +8,20 @@
       "when": 1775732172837,
       "tag": "0000_goofy_gideon",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1775742294615,
+      "tag": "0001_unknown_warpath",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1775742337824,
+      "tag": "0002_tiny_stardust",
+      "breakpoints": true
     }
   ]
 }
